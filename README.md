@@ -14,7 +14,7 @@ converter.tobin()
 ```
 
 # fractional bits selection
-Default fraction bits are 20  
+Default fraction bits = 20  
 
 ```python
 
