@@ -26,6 +26,7 @@ converter.tobin()
 
 # result  
 
+|index|expression|
 |---|---|
 |[0]|sign bit|
 |[1:11]|integer bits|
