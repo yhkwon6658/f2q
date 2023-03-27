@@ -25,9 +25,11 @@ converter.tobin()
 ```
 
 # result  
-|[0]|sign bit|  
-|[1:11]|integer bits|  
-|[12:31]|fraction bits|  
+
+|-|-|-|
+|[0]|sign bit|
+|[1:11]|integer bits|
+|[12:31]|fraction bits|
 
 ```
 Test Data
