@@ -13,6 +13,9 @@ converter = f2q.converter(floatArray)
 converter.tobin()
 ```
 
+![image](https://user-images.githubusercontent.com/120978778/227965519-9893c82c-e5d8-4fbd-83ea-37de4ca8a11f.png)
+
+
 # fractional bits selection
 Default fraction bits are 20  
 
